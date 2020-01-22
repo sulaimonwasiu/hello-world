@@ -1,2 +1,5 @@
 # hello-world
-A tutorial about GitHub familiarity
+Hi Everyone!
+
+It is not uncommon to see data science job applications requesting for knowlege in GitHub.
+So, as a data enthusiast, I find it imperative to have a good command of this tool.
